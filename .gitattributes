@@ -3,3 +3,4 @@ text=auto
 Content/ParagonKwang/** filter=lfs diff=lfs merge=lfs -text
 Content/ParagonGreystone/** filter=lfs diff=lfs merge=lfs -text
 Content/ParagonGrux/** filter=lfs diff=lfs merge=lfs -text
+Content/** filter=lfs diff=lfs merge=lfs -text
