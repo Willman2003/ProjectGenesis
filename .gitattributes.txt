@@ -1,5 +1,5 @@
 #Auto detect text files and perform LF normalization
 text=auto
-Content/ParagonKwang/** filter=lfs diff=lfs merge=lfs
-Content/ParagonGreystone/** filter=lfs diff=lfs merge=lfs
-Content/ParagonGrux/** filter=lfs diff=lfs merge=lfs
+Content/ParagonKwang/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonGreystone/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonGrux/** filter=lfs diff=lfs merge=lfs -text
